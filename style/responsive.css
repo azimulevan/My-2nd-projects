@@ -1,0 +1,314 @@
+
+/*  styles for mobile devices */
+@media (max-width: 576px) {
+    .main-header {
+        height: auto;
+        padding: 20px;
+        height: 1084px;
+    }
+    .main-nav {
+        flex-direction: column;
+        align-items: center;
+        margin-top: 15px;
+    }
+    .main-title {
+        font-size: 1.5rem;
+        text-align: center;
+    }
+    .btn {
+        margin-left: 0;
+        margin-top: 10px;
+    }
+    #Design {
+        font-size: 0.875rem;
+        padding: 5px 10px;
+    }
+    .btn-div {
+        padding: 5px 10px;
+        margin-top: 10px;
+        margin-right: 50px;
+    }
+    .title {
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+    .title-head {
+        font-size: 2.5rem;
+        text-align: center;
+    }
+    .btn2-div {
+        margin-top: 30px;
+        text-align: center;
+    }
+    .btn-1, .btn-2 {
+        padding: 10px 20px;
+        font-size: 0.875rem;
+    }
+    .img-flex {
+        flex-direction: column;
+        align-items: center;
+    }
+    .img-control {
+        margin-left: 0;
+    }
+    .btn-9 {
+        padding: 2px 5px;
+        font-size: 0.75rem;
+      
+    }
+    .carcale {
+        padding: 15px 20px;
+    }
+    .ll-22 {
+        font-size: 1.125rem;
+    }
+    .ll-23 {
+        font-size: 0.875rem;
+    }
+    .main-dad, .btn-88 {
+        margin: 0;
+    }
+    .evan {
+        margin-top: 10px;
+        margin-left: 0;
+    }
+    .button-size {
+        padding: 8px 15px;
+    }
+    .edit {
+        font-size: 1.75rem;
+    }
+    .edited {
+        font-size: 12px;
+    }
+    
+    .main-dad{
+        margin-top: -10pc;
+    }
+    .btn-88{
+        margin-top: -25pc;
+        margin-left: 200px;
+    }
+}
+
+
+
+
+
+
+
+
+@media (max-width: 576px) {
+    .main-section-1 {
+        height: auto; 
+    }
+
+    .section-img {
+        flex-direction: column; 
+    }
+
+    .div-07 {
+        margin-left: 0; 
+        height: 500px;
+        flex-direction: column;
+
+    .photos {
+        max-width: 100%; 
+        height: auto;
+    }
+
+    .div-07{
+        flex-direction: column;
+
+    }
+    .evan-07{
+        font-size: medium;
+        text-align: center;
+        margin-left: 10px;
+        
+        
+    }
+    .titles{
+        font-size: 2rem;
+    }
+    .para-titles{
+        font-size: 14px;
+    }
+    .photos{
+   max-width: 287px;
+    height: 170px;
+   
+    
+       
+    }
+    .mitu{
+        margin-left: 40px;
+
+    }
+  
+    
+}
+
+}
+
+
+
+
+
+
+
+
+@media (max-width: 576px) {
+    .section-2 {
+        height: auto; 
+        padding: 20px; 
+        border: none; 
+    }
+
+    .section-2-div {
+        margin-top: 20px; 
+    }
+
+    .section-2-had {
+        font-size: 2rem; 
+    }
+
+    .section-2-para {
+        font-size: 0.875rem; 
+    }
+
+    .kablu {
+        flex-direction: column; 
+        align-items: center; 
+        height: auto; 
+        margin-top: 20px;
+    }
+
+    .bim-cc {
+        margin-top: 20px; 
+        margin-left: 0; /
+        text-align: center; 
+    }
+
+    .colum {
+        margin: 20px; 
+    }
+
+    .colum-had {
+        font-size: 1.5rem; 
+    }
+
+    .colum-para {
+        font-size: 0.875rem; 
+    }
+
+    .btn-90, .btn-91, .long-btn {
+        width: 100%;
+        padding: 12px; 
+        text-align: center; 
+        margin-top: 10px; 
+    }
+
+    .real-btn {
+        width: 100%; 
+        padding: 12px; 
+        text-align: center; 
+        margin-top: 20px; 
+    }
+}
+
+@media (max-width: 576px) {
+    .section-2-had {
+        font-size: 1.75rem;
+    }
+
+    .section-2-para {
+        font-size: 0.75rem; 
+    }
+
+    .colum-had {
+        font-size: 1.25rem; 
+    }
+
+    .btn-90, .btn-91, .long-btn, .real-btn {
+        padding: 10px; 
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width: 576px) {
+    .section-04 {
+        height: auto; 
+        padding: 20px; 
+    }
+
+    .section-04-div {
+        text-align: center; 
+        margin-top: 20px; 
+    }
+
+    .section-04-had {
+        font-size: 2rem; 
+    }
+
+    .section-04-para {
+        font-size: 1rem; 
+    }
+
+    .section-04-div-2 {
+        max-width: 100%; 
+        height: auto; 
+        margin-left: 0; 
+        margin-top: 20px; 
+        padding: 20px; 
+    }
+
+    .img-flex {
+        flex-direction: column; 
+        align-items: center; 
+        margin-top: 20px; 
+    }
+
+    .img-1, .img-007 {
+        width: 100%; 
+        height: auto; 
+        margin-top: 20px; 
+    }
+
+    .train-had {
+        font-size: 1rem;
+        margin-top: 10px; 
+        margin-left: 0; 
+        text-align: center; 
+    }
+
+    .train-para {
+        font-size: 0.875rem; 
+        margin-top: 10px;
+        margin-left: 0; 
+        text-align: center; /
+    }
+}
