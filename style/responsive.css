@@ -4,7 +4,7 @@
     .main-header {
         height: auto;
         padding: 20px;
-        height: 1084px;
+        height: 1093px;
     }
     .main-nav {
         flex-direction: column;
@@ -50,6 +50,7 @@
     }
     .img-control {
         margin-left: 0;
+        
     }
     .btn-9 {
         padding: 2px 5px;
@@ -135,14 +136,14 @@
         font-size: 14px;
     }
     .photos{
-   max-width: 287px;
+   max-width: 700px;
     height: 170px;
    
     
        
     }
     .mitu{
-        margin-left: 40px;
+        margin-left: 60px;
 
     }
   
