@@ -4,10 +4,21 @@
     .main-header {
         height: auto;
         padding: 20px;
-        height: 1093px;
+        height: 1028px;
+    }
+
+    .hambar{
+        display: block;
+        margin-bottom: 50px
+    }
+    .frist-img{
+        margin-top: -1.1pc;
+    }
+    .btn-div{
+        display: none;
     }
     .main-nav {
-        flex-direction: column;
+        flex-direction: row;
         align-items: center;
         margin-top: 15px;
     }
@@ -50,6 +61,7 @@
     }
     .img-control {
         margin-left: 0;
+        margin-top: 40px;
         
     }
     .btn-9 {
@@ -89,6 +101,9 @@
     .btn-88{
         margin-top: -25pc;
         margin-left: 200px;
+    }
+    .title-para{
+        margin-top: 30px;
     }
 }
 
@@ -138,6 +153,7 @@
     .photos{
    max-width: 700px;
     height: 170px;
+    margin-left: 20px;
    
     
        
@@ -154,99 +170,73 @@
 
 
 
-
-
-
-
-
 @media (max-width: 576px) {
     .section-2 {
         height: auto; 
-        padding: 20px; 
-        border: none; 
+        padding: 20px;
     }
 
     .section-2-div {
-        margin-top: 20px; 
+        margin-top: 20px;
     }
 
     .section-2-had {
-        font-size: 2rem; 
+        font-size: 2rem;
     }
 
     .section-2-para {
-        font-size: 0.875rem; 
+        font-size: 12px; 
     }
 
     .kablu {
-        flex-direction: column; 
-        align-items: center; 
         height: auto; 
+        flex-direction: column;
+        align-items: center;
         margin-top: 20px;
     }
 
     .bim-cc {
-        margin-top: 20px; 
-        margin-left: 0; 
-        text-align: center; 
+        margin: 20px;
     }
 
     .colum {
-        margin: 20px; 
+        margin: 20px;
     }
 
     .colum-had {
-        font-size: 1.5rem; 
+        font-size: 1.25rem;
     }
 
-    .colum-para {
-        font-size: 0.875rem; 
+    .btn-90, .btn-91, .btn-900, .long-btn {
+        padding: 10px;
+        font-size: 14px;
     }
-
-    .btn-90, .btn-91, .long-btn {
-        width: 100%;
-        padding: 12px; 
-        text-align: center; 
-        margin-top: 10px; 
+    .btn-91{
+        padding-right: 98px;
+        
     }
+    .btn-900{
+        padding-right: 65px;
+      margin-left: 3px;
+    }
+.btn-90{
+    padding-right: 60px;
+}
+.long-btn{
+    padding-right: 93px;
+}
 
+
+  
+
+}
     .real-btn {
-        width: 100%; 
-        padding: 12px; 
-        text-align: center; 
-        margin-top: 20px; 
-    }
-}
-
-@media (max-width: 576px) {
-    .section-2-had {
-        font-size: 1.75rem;
+        padding: 8px 20px;
     }
 
-    .section-2-para {
-        font-size: 0.75rem; 
+    .select, .select-3 {
+        margin-left: 10px;
     }
-
-    .colum-had {
-        font-size: 1.25rem; 
-    }
-
-    .btn-90, .btn-91, .long-btn, .real-btn {
-        padding: 10px; 
-    }
-}
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 

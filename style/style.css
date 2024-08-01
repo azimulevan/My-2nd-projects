@@ -28,9 +28,20 @@
     border: none;
 }
 
+.hambar{
+    color: aliceblue;
+    margin-top: 50px;
+    display: none;
+}
+
+.play{
+    font-size: 50px;
+}
 
 
-
+.frist-img{
+    margin-top: 35px;
+}
 
 .main-nav{
     display: flex;
@@ -86,6 +97,7 @@
 .title-head{
     font-size: 4.875rem;
     color: aliceblue;
+    margin-top: -2pc;
 }
 .title-para{
     color: rgba(255, 255, 255, 0.5);
@@ -93,7 +105,7 @@
 
 
 .btn2-div{
-    margin-top: 60px;
+    margin-top: 100px;
 
   
 }
@@ -122,28 +134,35 @@
 .img-control{
     margin-left: 50px ;
 }
-
+.play-btn{
+    font-size: 2px;
+    padding: 0%;
+}
 
 
 .btn-9{
     display: flex;
     border: none;
-    padding: 2px 8px;
+    padding: 1px 8px;
+    padding-bottom: -2pc;
     border-radius: 10px;
     background-color: rgba(255, 255, 255, 0.1);
 }
 .carcale{
-    border: none;
+    border: none ;
     padding: 20px 25px;
-    border-radius: 30px;
+    border-radius: 40px;
+   
     background-color: rgba(230, 83, 60, 1);
-    color: rgba(230, 83, 60, 1);
+ color: aliceblue;
+    font-size: 12px;
 }
 
 .ll-22{
     font-size: 1.5rem;
     font-weight: 600;
     color: aliceblue;
+    margin-bottom: -2pc;
 }
 
 
@@ -391,10 +410,23 @@ max-width: 1060px;
 
 }
 
+.btn-900{
+    argin-top: 10px;
+    padding: 12px ;
+    padding-right: 110px;
+    padding-left: 10px;
+    border: none;
+    border-radius: 10px; 
+    margin-right: 8px;
+    background-color: rgba(255, 255, 255, 0.1);
+    color: rgba(255, 255, 255, 0.6);
+
+}
+
 .long-btn{
     margin-top: 10px;
     padding: 12px 50px;
-    padding-right: 213px;
+    padding-right: 185px;
     padding-left: 10px;
     border: none;
     border-radius: 10px; 
@@ -412,6 +444,19 @@ max-width: 1060px;
     background-color: rgba(230, 83, 60, 1) ;
     color: aliceblue;
 
+}
+.select{
+    margin-left: 100px;
+    background-color:rgba(255, 255, 255, 0.1) ;
+    border: none;
+    color: aliceblue;
+}
+
+.select-3{
+    margin-left: 172px;
+    background-color:rgba(255, 255, 255, 0.1) ;
+    border: none;
+    color: aliceblue;
 }
 /*part 4*/
 
